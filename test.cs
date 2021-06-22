@@ -1,1 +1,1 @@
-debug.log('from c#')
+debug.logg('from c#')
